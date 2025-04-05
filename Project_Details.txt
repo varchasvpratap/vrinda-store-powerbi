@@ -1,0 +1,10 @@
+Project Title: Vrinda Store Analysis
+Tools Used: Power BI
+Data: Retail sales data (dummy)
+Insights: 
+- Top performing categories
+- Monthly sales trends
+- Region-wise performance
+- Interactive dashboards
+
+Purpose: To build a dashboard that helps track store performance and decision-making.
